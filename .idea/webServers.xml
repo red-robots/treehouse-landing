@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="975053ee-4ee7-4dcc-ae34-6601873b0871" name="Apache 2 - Treehouse" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/weblinks/bellaworks/treehouse" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
